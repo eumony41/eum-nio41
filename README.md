@@ -1,5 +1,5 @@
 Boas vindas ao meu perfil 💙💙
-Meu nome é MOniélly C de Carvalho
+Meu nome é Moniélly C de Carvalho
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
